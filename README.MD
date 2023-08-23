@@ -2,9 +2,9 @@
 
 Este é um projeto simples para coletar informações de cotação do dólar usando a biblioteca Requests e BeautifulSoup em Python.
 
-## Descrição
+## Descrição do projeto
 
-Este script Python faz uma requisição à página de pesquisa do Google para obter informações de cotação do dólar e salva essas informações em um arquivo JSON. Ele utiliza a biblioteca Requests para fazer a requisição HTTP e a biblioteca BeautifulSoup para fazer o parse do HTML da página.
+Este script Python faz uma requisição à página de pesquisa do Google para obter informações de cotação do dólar, e salva essas informações em um arquivo JSON. Ele utiliza a biblioteca Requests para fazer a requisição HTTP e a biblioteca BeautifulSoup para fazer o parse do HTML da página.
 
 ## Pré-requisitos
 
