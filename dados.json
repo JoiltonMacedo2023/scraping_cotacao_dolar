@@ -1,0 +1,11 @@
+{
+    "titulo": "cotação dolar - Pesquisa Google",
+    "pesquisa google": "cotação dolar",
+    "cotacao do dolar de hoje": "R$ 4,94",
+    "data_hora": {
+        "texto": " Data/hora: 23 de ago., 03:09 UTC · Fontes",
+        "fontes": {
+            "url": "https://www.google.com/intl/pt-BR/googlefinance/disclaimer/"
+        }
+    }
+}
